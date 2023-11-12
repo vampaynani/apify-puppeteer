@@ -1,0 +1,11 @@
+{
+  "actorSpecification": 1,
+  "name": "assessment",
+  "title": "Scrape with Puppeteer",
+  "description": "Scrape data from single page with provided URL.",
+  "version": "0.0",
+  "meta": {
+    "templateId": "js-start"
+  },
+  "dockerfile": "./Dockerfile"
+}
